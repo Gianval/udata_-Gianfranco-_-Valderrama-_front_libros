@@ -8,7 +8,7 @@ export default function Home() {
     <main
       className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
     >
-      <h1 className="text-3xl font-bold font-sans text-gray-800 tracking-wide mb-8">
+      <h1 className="text-4xl font-bold font-comic text-gray-800 tracking-wide mb-8">
         GOOBOOK - VENTA DE LIBROS
       </h1>
       <div className="flex">
@@ -24,3 +24,4 @@ export default function Home() {
     </main>
   )
 }
+
